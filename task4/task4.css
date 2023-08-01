@@ -28,6 +28,12 @@ html,body {
     align-items: center;
     justify-content: space-around;
 }
+p {
+    text-align: center;
+    font-style: normal;
+    font-size: 20px;
+    
+}
 a {
     text-decoration: none;
     color: rgb(16, 84, 65);
@@ -42,10 +48,4 @@ a {
 }
 a:hover {
     background-color: aqua;
-}
-p {
-    text-align: center;
-    font-style: normal;
-    font-size: 20px;
-    
 }
