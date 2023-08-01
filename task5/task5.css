@@ -20,7 +20,7 @@ html,body {
     height: 97%;
     flex-wrap: wrap;
 }
-.card {
+.tech {
     width: 25%;
     height: 40%;
     margin: 20px;
@@ -29,14 +29,14 @@ html,body {
     justify-content: center;
     align-items: center;
 }
-.card img {
+.tech img {
     /* object-fit: contain; */
     width: 90%;
     height: 90%;
     
     
 }
-.card img:hover {
+.tech img:hover {
     transform: scale(1.1);
     transition: 0.8s transform ease-in-out;
 }
